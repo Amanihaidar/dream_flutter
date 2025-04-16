@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897098766352",
+    "project_id": "dream-125a5",
+    "storage_bucket": "dream-125a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897098766352:android:0d5013b888f0f27a2c9295",
+        "android_client_info": {
+          "package_name": "dreamapp.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZoDcEpigZ9ugazuTJ0rF_6LRgqTIycg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
